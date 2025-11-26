@@ -3,7 +3,7 @@
 // آدرس یک تصویر موقت برای فریم
 const FRAME_IMAGE_URL = "https://picsum.photos/600/400"; 
 // آدرس نقطه پایانی سرور (این را بعد از انتشار به‌روز می‌کنیم)
-const POST_URL = "https://YOUR-DOMAIN.com/api/redirect-handler"; 
+const POST_URL = "https://farcaster-redirect-frame.vercel.app"; 
 
 export default function Home() {
   return (
